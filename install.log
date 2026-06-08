@@ -1,0 +1,8 @@
+[21:13:57 2026-06-07] FETCHING Version 2.43.2
+[21:13:57 2026-06-07] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.43.2/spicetify-2.43.2-linux-amd64.tar.gz
+[21:13:58 2026-06-07] EXTRACTING /home/nukem/.spicetify/spicetify.tar.gz
+[21:13:58 2026-06-07] SETTING EXECUTABLE PERMISSIONS TO /home/nukem/.spicetify/spicetify
+[21:13:58 2026-06-07] REMOVING /home/nukem/.spicetify/spicetify.tar.gz
+[21:13:58 2026-06-07] spicetify path already set in /home/nukem/.bashrc, continuing...
+[21:13:58 2026-06-07] spicetify v2.43.2 was installed successfully to /home/nukem/.spicetify
+[21:13:58 2026-06-07] Run 'spicetify --help' to get started
